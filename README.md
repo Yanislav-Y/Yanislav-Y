@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Yanislav-Y
+- 👀 I’m interested in software engineering and game development
+- 🌱 I’m currently learning C++
+- 
